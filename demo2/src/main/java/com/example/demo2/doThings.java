@@ -1,4 +1,4 @@
-package java.com.example.demo2;
+package com.example.demo2;
 
 public class doThings {
     public String run(String input){

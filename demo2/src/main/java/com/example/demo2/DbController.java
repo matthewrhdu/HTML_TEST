@@ -1,4 +1,4 @@
-package java.com.example.demo2;
+package com.example.demo2;
 
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PostMapping;
