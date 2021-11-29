@@ -11,7 +11,13 @@
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration>
+        <fileset id="fileset" name="Configs" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/com/example/demo2/Configs.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/example/demo2/Demo2Application.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/example/demo2/Configy.java</file>
+        </fileset>
+      </configuration>
     </facet>
     <facet type="jpa" name="JPA">
       <configuration>

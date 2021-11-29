@@ -12,4 +12,8 @@ public class thing {
     public thing() {
         this.something = "Something";
     }
+
+    public String getSomething() {
+        return something;
+    }
 }
